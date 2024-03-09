@@ -1,0 +1,3 @@
+bottle
+google-cloud-storage
+redis

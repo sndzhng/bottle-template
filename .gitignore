@@ -1,0 +1,6 @@
+__pycache__
+bottle.py
+google-application-credential.json
+venv
+temp/*
+!temp/.gitkeep

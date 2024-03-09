@@ -1,0 +1,7 @@
+services:
+  redis:
+    image: redis:alpine
+    container_name: bottle-template-redis
+    restart: no
+    ports:
+      - 6379:6379
